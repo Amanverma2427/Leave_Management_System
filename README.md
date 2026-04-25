@@ -15,27 +15,28 @@
 
 <img width="946" height="389" alt="beauty" src="https://github.com/user-attachments/assets/2b2ae767-5b6e-49e0-a301-c956c94653eb" />
 # 💅 Beauty Management System
-Ek modern aur easy-to-use system jo beauty parlors aur salons ke appointments, services aur customers ko manage karne ke liye banaya gaya hai.
+A modern and easy-to-use management system designed for beauty parlors and salons to efficiently manage appointments, services, and customers.
 
 ### 📸 Project Screenshots
-<!-- Yahan apne dashboard aur services ka screenshot drag-and-drop karein -->
+<!-- Drag and drop your dashboard and services screenshots here -->
 
-### ✨ Key Features
-* **Appointment Booking:** Customers online appointment book kar sakte hain.
-* **Service Management:** Salon ki saari services (Haircut, Makeup, etc.) aur unki pricing manage karna.
-* **Admin Dashboard:** Total earnings aur daily appointments ka overview dekhna.
-* **User Friendly UI:** Bootstrap 5 ka use karke ek sundar interface banaya gaya hai.
+Key Features
+* **Appointment Booking:** Allows customers to book appointments online with ease.
+* **Service Management:** Effortlessly manage all salon services (Haircut, Makeup, etc.) and their pricing.
+* **Admin Dashboard:** Get a comprehensive overview of total earnings and daily appointments.
+* **User-Friendly UI:** Built with Bootstrap 5 to provide a beautiful and responsive interface.
 
-### 🛠️ Tech Stack
-* **Frontend:** HTML5, CSS3, Bootstrap 5 (Kaiadmin Lite Template)
+###  Tech Stack
+* **Frontend:** HTML5, CSS3, Bootstrap 5 (Based on Kaiadmin Lite Template)
 * **Backend:** PHP
 * **Database:** MySQL
 
-### 🚀 Setup Instructions
-1. Project folder ko apne XAMPP/WAMP ke `htdocs` folder mein copy karein.
-2. SQL file ko `phpMyAdmin` mein import karein.
-3. `config` folder mein apni database details update karein.
-4. Browser mein `localhost/Beauty_Management_System` open karein.
+###  Setup Instructions
+1. Copy the project folder into your XAMPP/WAMP `htdocs` directory.
+2. Import the provided SQL file into `phpMyAdmin`.
+3. Update your database configuration details in the `config` folder.
+4. Open `localhost/Beauty_Management_System` in your web browser.
+
 
 
 
