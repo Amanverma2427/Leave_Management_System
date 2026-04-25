@@ -1,3 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="946" height="389" alt="beauty" src="https://github.com/user-attachments/assets/2b2ae767-5b6e-49e0-a301-c956c94653eb" />
 # 💅 Beauty Management System
 Ek modern aur easy-to-use system jo beauty parlors aur salons ke appointments, services aur customers ko manage karne ke liye banaya gaya hai.
 
